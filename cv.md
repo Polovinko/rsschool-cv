@@ -2,13 +2,18 @@
 
 ## Contacts:
 Email: ospolovinko@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/oleg-polovinko-10b95b172/
+
 Telegram: https://t.me/rockstarhelge
+
 Vk: https://vk.com/helgen
 
 ## Profile:
 Entered **RS-school** to successfully complete and start my career as a programmer. All or nothing.
+
 Therefore, I will try my best. I took courses on htmlacademy.ru, so I already have basic knowledge of html, css and javascript. 
+
 I study everything new extremely quickly and nobody can put out my seniority to become a front-end programmer!
 
 ## Skills:
